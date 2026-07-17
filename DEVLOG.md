@@ -1,3 +1,10 @@
+- [ ] drive display
+- [ ] setup API with DB
+- [ ] setup desktop interface to update info for display
+- [ ] create mobile app that ingests this data
+- [ ] create display cycler
+- [ ] design basic 3D printed stand
+
 ### 07/16/2026
 
 10:47 PM
