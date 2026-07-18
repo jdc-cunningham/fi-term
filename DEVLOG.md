@@ -39,6 +39,8 @@ I should at least get this sample code to run
 
 Yeah... I'm kinda just chilling my bad... I blame it on the poor sleep, the 5 AM bar thing won't last long, once world cup is done
 
+I did set up git on the pi zero w though and pulled the code down there so I can try the display test code
+
 ---
 
 ### 07/16/2026
