@@ -21,6 +21,12 @@ Now I see "e-Paper busy" something about GPIO lines ahh
 
 Need to figure that out, I'm gonna fly my glider it's a great although hot AF day
 
+5:42 PM
+
+Ugh... I'm gonna have to find another library
+
+Worst case I can drive it with python but I wanted to use the same language for everything
+
 ---
 
 ### 07/18/2026
