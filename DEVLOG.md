@@ -41,6 +41,10 @@ Yeah... I'm kinda just chilling my bad... I blame it on the poor sleep, the 5 AM
 
 I did set up git on the pi zero w though and pulled the code down there so I can try the display test code
 
+7:28 PM
+
+Alright I had a nap, let me try and fire this up
+
 ---
 
 ### 07/16/2026
