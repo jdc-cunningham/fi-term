@@ -5,6 +5,24 @@
 - [ ] create display cycler
 - [ ] design basic 3D printed stand
 
+### 07/19/2026
+
+4:25 PM
+
+Distracted, I lifted, ate some food, gonna see the Odyssey damn the theater is packed
+
+5:08 PM
+
+(FAH! sound effect)
+
+So I addressed the canvas node gyp issue. Also addressed missing font issue.
+
+Now I see "e-Paper busy" something about GPIO lines ahh
+
+Need to figure that out, I'm gonna fly my glider it's a great although hot AF day
+
+---
+
 ### 07/18/2026
 
 3:19 PM
