@@ -45,6 +45,10 @@ I did set up git on the pi zero w though and pulled the code down there so I can
 
 Alright I had a nap, let me try and fire this up
 
+7:39 PM
+
+This pi zero w is so underpowered takes a while to install stuff
+
 ---
 
 ### 07/16/2026
